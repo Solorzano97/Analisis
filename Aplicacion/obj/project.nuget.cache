@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yFYFD4mT1HG8wRtPyIdjXaHqt1e12x/d1TPaACrN3uWmzNGT0W8ZlpoPRmJfQHpUhMdkBkXIdSXR4LkRseIUkA==",
+  "dgSpecHash": "F3QopvG9UumKR1jFeDajl3v5avAMCnsHoSo4gbZG8AUT/Af+yWWIwnU3jO5kk0pgewOrgaRIiCAJyC6MBm+LJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

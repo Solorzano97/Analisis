@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKjF/X9+F3OD9l0/Wtm0edaw1Sgtat9g6Q3oSWgTX2qMWk4RSkLHtaV0/QevkJ3Eu9VXPrTBVOsfpmf6wL487w==",
+  "dgSpecHash": "25JcwsFgm9iQu5a2V4V63NDoYJGk0IhMZFLi3zFQvDwUx1z/QAM54zexLygjpsH43LYR2C4KGGByPkV48xHQHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\WebApi\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
@@ -117,7 +117,8 @@
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Andres Solorzano\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Andres Solorzano\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andres Solorzano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

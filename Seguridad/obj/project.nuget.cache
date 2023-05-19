@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVH6Swyti87hz7O8b8eif+rzzipT9UkwZ1im7cxhUs8KUKPLrrgcQu5Ucrpda2DSBevnGwWEQWRSXf1fxq796A==",
+  "dgSpecHash": "fa5nqDfAf6Wza6Vfi4kK5R9V5nJnbD/GJ/LkXIvovBGA2mRMq6hFZLCWh+lk6FLUkiYBTjez8hfKow/umI35Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj",
+  "projectFilePath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Andres Solorzano\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",

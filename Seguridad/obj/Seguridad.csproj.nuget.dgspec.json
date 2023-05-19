@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj": {}
+    "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\Seguridad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -62,7 +62,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,7 +126,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -137,18 +139,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +167,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -204,7 +206,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -216,18 +219,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj": {
+    "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\Seguridad.csproj",
+        "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\Andres Solorzano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Seguridad\\obj\\",
+        "outputPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres Solorzano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,8 +247,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Andres\\semestre8\\proycto_respaldo_analis\\ProyectoAnalisis2\\Aplicacion\\Aplicacion.csproj"
+              "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\Andres Solorzano\\Desktop\\Proyectc\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
@@ -271,7 +274,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -283,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
